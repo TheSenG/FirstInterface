@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CameraIcon.png" />
+    <None Remove="HouseIcon.png" />
+    <None Remove="LibIcon.png" />
+    <None Remove="LibraryIcon.png" />
+    <None Remove="LikeIcon.png" />
+    <None Remove="ShortsIcon.png" />
+    <None Remove="Sin título.png" />
+    <None Remove="SkipIcon.png" />
+    <None Remove="StoryIcon.png" />
+    <None Remove="Subscriptions.png" />
+    <None Remove="Thumbnail1.jpg" />
+    <None Remove="Thumbnail2.jpg" />
+    <None Remove="Thumbnail3.jpg" />
+    <None Remove="Thumbnail4.jpg" />
+    <None Remove="Thumbnail5.jpg" />
+    <None Remove="Thumbnail6.jpg" />
+    <None Remove="User1.png" />
+    <None Remove="User2.png" />
+    <None Remove="User3.png" />
+    <None Remove="User4.png" />
+    <None Remove="Youtube_logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="CameraIcon.png" />
+    <Resource Include="HouseIcon.png" />
+    <Resource Include="LibIcon.png" />
+    <Resource Include="LibraryIcon.png" />
+    <Resource Include="LikeIcon.png" />
+    <Resource Include="ShortsIcon.png" />
+    <Resource Include="Sin título.png" />
+    <Resource Include="SkipIcon.png" />
+    <Resource Include="StoryIcon.png" />
+    <Resource Include="Subscriptions.png" />
+    <Resource Include="Thumbnail1.jpg" />
+    <Resource Include="Thumbnail2.jpg" />
+    <Resource Include="Thumbnail3.jpg" />
+    <Resource Include="Thumbnail4.jpg" />
+    <Resource Include="Thumbnail5.jpg" />
+    <Resource Include="Thumbnail6.jpg" />
+    <Resource Include="User1.png" />
+    <Resource Include="User2.png" />
+    <Resource Include="User3.png" />
+    <Resource Include="User4.png" />
+    <Resource Include="Youtube_logo.png" />
+  </ItemGroup>
+
+</Project>
